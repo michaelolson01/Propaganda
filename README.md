@@ -22,3 +22,8 @@ Bowie J. Poagn
 *Uploaded 11/30/2016*
 
 *Benjamin Carr*
+
+*Combined the archive at https://images.ira.abramov.org/Propaganda 
+and https://github.com/BenjaminHCCarr/PropagandaTiles*
+
+*Michael Olson*
